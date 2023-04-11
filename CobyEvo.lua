@@ -3223,3 +3223,5 @@ function Library:CreateWindow(WindowTitle)
 
     return Window;
 end;
+
+return Library
